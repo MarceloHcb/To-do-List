@@ -1,0 +1,18 @@
+@media(max-width: 900px){
+    .todo-new-item{
+        max-width: 0;
+    }
+}
+@media(max-width: 700px){
+    .back img{
+        max-height: 100vh;
+        height: 100%;
+        width: 130%;
+        position: absolute;
+        top:10%
+               
+    } 
+    .todo-list{
+        margin-top: 220px;
+    }
+}
